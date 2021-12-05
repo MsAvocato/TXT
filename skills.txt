@@ -1,0 +1,8 @@
+Навыки:
+Теория;
+HTTP методы;
+JSON и XML;
+Charles;
+Fiddler;
+Dev Tolls;
+Terminal
